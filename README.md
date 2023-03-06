@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Hero image](/KhairyIbrahim/KhairyIbrahim/Khairy.png)
-
 <div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=KhairyIbrahim" alt="KhairyIbrahim" /></p>
   
