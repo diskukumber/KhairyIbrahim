@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hero image](https://raw.githubusercontent.com/timothystewart6/images/master/techno-timgithub-profile.jpg)
+![Hero image](https://raw.githubusercontent.com/KhairyIbrahim/khairy wall.png)
 
 <div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=KhairyIbrahim" alt="KhairyIbrahim" /></p>
