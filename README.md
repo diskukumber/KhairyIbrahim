@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <div>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=KhairyIbrahim" alt="KhairyIbrahim" /></p>
-
-<div>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=KhairyIbrahim" alt="KhairyIbrahim" /></p>  <div>
 <p align="center"><img src="https://img.shields.io/github/followers/KhairyIbrahim?logo=GitHub&style=for-the-badge" alt="KhairyIbrahim" /></p>
+
+
 
   
   
