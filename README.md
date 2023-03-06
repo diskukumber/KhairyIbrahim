@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hero image](https://raw.githubusercontent.com/KhairyIbrahim/Khairy.png)
+![Hero image](https://raw.githubusercontent.com/KhairyIbrahim/KhairyIbrahim/Khairy.png)
 
 <div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=KhairyIbrahim" alt="KhairyIbrahim" /></p>
