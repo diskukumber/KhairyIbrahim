@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 <div>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=KhairyIbrahim" alt="KhairyIbrahim" /></p>  <div>
-<p align="center"><img src="https://img.shields.io/github/followers/KhairyIbrahim?logo=GitHub&style=for-the-badge" alt="KhairyIbrahim" /></p>
-
-(https://img.shields.io/github/followers/KhairyIbrahim?logo=GitHub&style=for-the-badge)
-(https://komarev.com/ghpvc/?username=KhairyIbrahim)
+<p align="center"><img src="https://komarev.com/ghpvc/?username=KhairyIbrahim" alt="KhairyIbrahim" /></p>
   
   
 [![GitHub followers](https://img.shields.io/github/followers/timothystewart6?logo=GitHub&style=for-the-badge)](https://l.technotim.live/github)
