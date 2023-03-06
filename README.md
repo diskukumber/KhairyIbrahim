@@ -3,7 +3,7 @@
 <div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=KhairyIbrahim" alt="KhairyIbrahim" /></p>
   
-![GitHub followers](https://img.shields.io/github/followers/KhairyIbrahim?logo=GitHub&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/KhairyIbrahim?logo=GitHub&style=for-the-badge) ![GitHub Stars](https://img.shields.io/github/stars/KhairyIbrahim?logo=github&style=for-the-badge)
   
 ![GitHub Stars](https://img.shields.io/github/stars/KhairyIbrahim?logo=github&style=for-the-badge)
   
