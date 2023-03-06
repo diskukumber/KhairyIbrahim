@@ -7,12 +7,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/timothystewart6?logo=GitHub&style=for-the-badge)](https://l.technotim.live/github)
 [![GitHub Stars](https://img.shields.io/github/stars/techno-tim?logo=github&style=for-the-badge)](https://l.technotim.live/github)
   
-  [![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=KhairyIbrahim&show_icons=true&count_private=true&theme=radical&hide=stars)
+  ![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=KhairyIbrahim&show_icons=true&count_private=true&theme=radical&hide=stars)
   
-  <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhairyIbrahim&show_icons=true&theme=dracula" />
-</a></p>
-  
+
 
   
 <!--
