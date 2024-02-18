@@ -1,18 +1,18 @@
 ### Hi there 👋
 
 <div>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=KhairyIbrahim" alt="KhairyIbrahim" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=diskukumber" alt="diskukumber" /></p>
   
-![GitHub followers](https://img.shields.io/github/followers/KhairyIbrahim?logo=GitHub&style=for-the-badge)
-  ![GitHub Stars](https://img.shields.io/github/stars/KhairyIbrahim?logo=github&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/diskukumber?logo=GitHub&style=for-the-badge)
+  ![GitHub Stars](https://img.shields.io/github/stars/diskukumber?logo=github&style=for-the-badge)
   
-![github stats](https://github-readme-stats.vercel.app/api?username=KhairyIbrahim&show_icons=true&count_private=true&theme=radical&hide=stars)
+![github stats](https://github-readme-stats.vercel.app/api?username=diskukumber&show_icons=true&count_private=true&theme=radical&hide=stars)
   
 
 
   
 <!--
-**KhairyIbrahim/KhairyIbrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**diskukumber/diskukumber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
