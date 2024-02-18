@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello Friend..! 👋
 
 <div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=diskukumber" alt="diskukumber" /></p>
   
 ![GitHub followers](https://img.shields.io/github/followers/diskukumber?logo=GitHub&style=for-the-badge)
-  ![GitHub Stars](https://img.shields.io/github/stars/diskukumber?logo=github&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/diskukumber?logo=github&style=for-the-badge)
   
 ![github stats](https://github-readme-stats.vercel.app/api?username=diskukumber&show_icons=true&count_private=true&theme=radical&hide=stars)
   
